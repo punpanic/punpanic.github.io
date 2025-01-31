@@ -1,0 +1,14 @@
+html{
+  background-color:#000000;
+}
+
+h1{
+  color: #079af0;
+  text-align: cENTER;
+}
+.POPPU{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
