@@ -12,7 +12,7 @@ var topimage = document.getElementById("ahhh");
 
   
   function doFunction(){
-    topimage.src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coffeepals.com%2Fblog%2Fhow-to-make-ms-teams-memes-plus-examples&psig=AOvVaw11x_mO4DDysw9Yp9hQHwvT&ust=1738519434732000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCX2OOHo4sDFQAAAAAdAAAAABAE";
+    topimage.src = "https://i.pinimg.com/736x/46/d2/be/46d2be1c679835f7a028677768613dbc.jpg";
   }
   
   
