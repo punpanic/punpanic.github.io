@@ -3,6 +3,7 @@ var memes = [
   "https://preview.redd.it/double-standards-v0-8p87qj76eizd1.jpeg?width=640&crop=smart&auto=webp&s=4751048eb63836df395c316d125985523bca3779",
   "https://media1.tenor.com/m/QdrfMv2CxRgAAAAd/office.gif",
   "https://cdn.memes.com/up/71558571535638926/i/1737695826862.jpg"
+  ,"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coffeepals.com%2Fblog%2Fhow-to-make-ms-teams-memes-plus-examples&psig=AOvVaw11x_mO4DDysw9Yp9hQHwvT&ust=1738519434732000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCX2OOHo4sDFQAAAAAdAAAAABAE"
   
 ]
 
