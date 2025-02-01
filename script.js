@@ -4,6 +4,7 @@ var memes = [
   "https://media1.tenor.com/m/QdrfMv2CxRgAAAAd/office.gif",
   "https://cdn.memes.com/up/71558571535638926/i/1737695826862.jpg"
   ,"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coffeepals.com%2Fblog%2Fhow-to-make-ms-teams-memes-plus-examples&psig=AOvVaw11x_mO4DDysw9Yp9hQHwvT&ust=1738519434732000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCX2OOHo4sDFQAAAAAdAAAAABAE"
+  ,"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fdelaneybomb07%2Fnapoleon-dynamite-memes%2F&psig=AOvVaw16PJm3VRy6G5EUNwG7jKvg&ust=1738521772660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjA37uQo4sDFQAAAAAdAAAAABAE"
   
 ]
 
