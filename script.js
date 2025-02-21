@@ -7,6 +7,7 @@ var memes = [
   ,"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fdelaneybomb07%2Fnapoleon-dynamite-memes%2F&psig=AOvVaw16PJm3VRy6G5EUNwG7jKvg&ust=1738521772660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjA37uQo4sDFQAAAAAdAAAAABAE"
   ,"https://i.imgflip.com/9l2sjw.jpg",
   "https://i.imgflip.com/9l2umo.jpg",
+  "https://i.imgflip.com/9l2wd7.jpg",
 ]
 
 var topimage = document.getElementById("ahhh");
