@@ -22,7 +22,8 @@ var memes = [
   "https://i.imgflip.com/76f4fx.jpg",
   "https://i.imgflip.com/9ltqv6.jpg",
   "https://i.imgflip.com/9lmv6r.jpg",
-  "https://i.imgflip.com/9lxxrz.jpg",]
+  "https://i.imgflip.com/9lxxrz.jpg",
+]
 var topimage = document.getElementById("ahhh");
 
 
