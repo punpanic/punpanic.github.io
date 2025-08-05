@@ -49,7 +49,11 @@ var memes = [
   "https://i.imgflip.com/a1i57i.jpg",
 ]
 var topimage = document.getElementById("ahhh");
+var rick = document.getElementById("rickroll");
 
+function hello_rickies(){
+  rick.play();
+}
 
   
   function doFunction(){
