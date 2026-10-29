@@ -56,6 +56,7 @@ var memes = [
   "https://i.imgflip.com/akte4z.jpg",
   "https://i.imgflip.com/b487pd.jpg",
   "https://i.imgflip.com/akltbi.jpg",
+  "https://i.imgflip.com/8xlmab.jpg",
 ]
 var topimage = document.getElementById("ahhh");
 var rick = document.getElementById("rickroll");
